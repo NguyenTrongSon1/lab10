@@ -1,0 +1,61 @@
+body{
+    font-family: Georgia, Times, serif;
+}
+
+
+.a{
+    width: 860px;
+    height: 200px;
+    background-color: white;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    border-bottom: 1px solid darkgray;
+    border-right: 1px solid gray;
+}
+.b{
+    background-color: #AEACA8;
+    width: 1250px;
+    height: 180px;
+}
+.ul a{
+    color: white;
+    padding-right: 50px;
+    text-decoration: none;
+
+}
+.img{
+    width: 250px;
+    margin-right: 20px;
+    margin-left: 20px;
+    float: left;
+}
+.mau:hover{
+    color: red;
+}
+.copy{
+    background-color: darkgray;
+    padding-left: 20px;
+   height: 30px;
+    padding-top: 10px;
+
+}
+#main{
+    width: 1500px;
+    padding: 0px;
+}
+#right{
+    width: 600px;
+    height: 700px;
+    float: right;
+    border-bottom: 1px solid darkgray;
+}
+.d{
+    padding: 10px 10px 10px;
+}
+
+.d:hover{
+    color: red;
+}
+#home:hover{
+    color: black;
+}
